@@ -1,0 +1,10 @@
+node_modules/
+dist/
+out/
+.vscode/
+.vscode-test/
+*.vsix
+*.log
+.DS_Store
+Thumbs.db
+.vscode-test/vscode-win32-x64-archive-1.95.1/Code.exe
